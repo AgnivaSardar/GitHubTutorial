@@ -1,0 +1,3 @@
+hostel name
+hostel address
+hostel fees
